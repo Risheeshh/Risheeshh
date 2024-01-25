@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Risheeshh
-- 👀 I’m interested in coding well duh
-- 🌱 I’m currently learning git indeed
-- 💞️ I’m looking to collaborate on any coding projects really as me aiming to be a full stack developer
-- 📫 How to reach me via insta ig @_rishush_ and twitter 
+- 👀 I’m interested in coding umm duh. Hehe jk F1, football, books(any genre), a lil bit of anime, FPS games, music, ehh thats enough for now ig.
+- 🌱 I’m currently learning mern stack. Fingers crossed
+- 💞️ I’m looking to collaborate on any coding project if and only if the theme intrigues me
+- 📫 How to reach me via insta handle @_rishush_ and twitter handle @
 - 😄 Pronouns: kms/soon
 - ⚡ Fun fact: Nothing fun in any facts abt me.
 
